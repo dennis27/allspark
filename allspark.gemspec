@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Allspark::VERSION
   spec.authors       = ["Dennis Vaughn"]
   spec.email         = ["dennis@rigpasolutions.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{More to come}
+  spec.summary       = %q{More to come}
   spec.homepage      = ""
   spec.license       = "MIT"
 
